@@ -37,7 +37,7 @@ node index.js
 ```
 
 Follow the prompts to:
-1. What is your order?
+1. Enter the name of the pizza you want to order (e.g., "Mushroom","Pepperoni")
 2. Press enter to confirm your order
 3. Wait for preparation and delivery
 

@@ -1,4 +1,4 @@
-import { makePizza, deliverPizza } from './makePizza.js';
+import { makePizza, deliverPizza } from './pizzaService.js';
 import readline from 'readline';
 
 const rl = readline.createInterface({
